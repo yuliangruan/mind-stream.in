@@ -13,15 +13,18 @@
   * (inquire) of another of another's of their experience, know the right questions
 
 * [capture] 
-  * words, visuals, sounds
   * actors, scenes, objects
-  * motions, ambiences, 
+  * visuals, audibles, tactiles, smells and tastes, and the ?-les
+  * motions, ambiences, props
   * complexities, inherencies, implications
   * cohensions, relations, collections
 
 * [share] your wild experiences with others 
+  * 
 
 * [CAPTURE]
+  * vr modeling
+  *
 
 * [SHARE]
 
