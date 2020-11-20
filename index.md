@@ -1,19 +1,22 @@
 * [learn] Educate yourself on dreaming, lucid dreaming, health benefits, mental benefits
 
 * [experience] Open your mind to explore the infinite space of possibilites
-** self reflection
-** immersion imagination
-** explore your imagination worlds
+
+  * self reflection
+
+  * immersion imagination
+
+  * explore your imagination worlds
 
 * [educate] Teach others on the abilities of the human mind
 
 * [train] 
-** precisely describe your experiences
-** (inquire) of another of another's of their experience, know the right questions
+  * precisely describe your experiences
+  * (inquire) of another of another's of their experience, know the right questions
 
 * [capture] 
-** in words and pictures on various mediums
-** 
+  * in words and pictures on various mediums
+  * 
 
 * [share] your wild experiences with others 
 
