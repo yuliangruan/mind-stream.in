@@ -23,11 +23,17 @@
   * 
 
 * [CAPTURE]
-  * vr modeling
-  *
+  * models
+  * scenes
+  * attributes
+  * events
+  * causalities
+  * inferences
 
 * [SHARE]
 
 * [EXPERIENCE] explore others' experiences and tap into others' imaginations
+ * !!!
 
 * [EVOLVE] unleash the collective humanity power
+ * !!!!!!!...?
