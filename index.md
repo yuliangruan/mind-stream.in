@@ -12,11 +12,15 @@
 
 * [train] 
   * precisely describe your experiences
+  * verbalizations, actuations
   * (inquire) of another of another's of their experience, know the right questions
 
 * [capture] 
-  * in words and pictures on various mediums
-  * 
+  * words, visuals, sounds
+  * actors, scenes, objects
+  * motions, ambiences, 
+  * complexities, inherencies, implications
+  * cohensions, relations, collections
 
 * [share] your wild experiences with others 
 
@@ -26,4 +30,4 @@
 
 * [EXPERIENCE] explore others' experiences and tap into others' imaginations
 
-* [evolve] unleash the collective humanity power
+* [EVOLVE] unleash the collective humanity power
